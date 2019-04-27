@@ -1,3 +1,2 @@
 .vs/
-BlobAccess/bin/
-!BlobAccess/bin/FileSource
+BlobAccess/bin/Debug
