@@ -1,0 +1,11 @@
+K:\STEP_SCHOOL\AZURE\TableQuery\bin\Debug\netcoreapp2.0\TableQuery.deps.json
+K:\STEP_SCHOOL\AZURE\TableQuery\bin\Debug\netcoreapp2.0\TableQuery.runtimeconfig.json
+K:\STEP_SCHOOL\AZURE\TableQuery\bin\Debug\netcoreapp2.0\TableQuery.runtimeconfig.dev.json
+K:\STEP_SCHOOL\AZURE\TableQuery\bin\Debug\netcoreapp2.0\TableQuery.dll
+K:\STEP_SCHOOL\AZURE\TableQuery\bin\Debug\netcoreapp2.0\TableQuery.pdb
+K:\STEP_SCHOOL\AZURE\TableQuery\obj\Debug\netcoreapp2.0\TableQuery.csprojAssemblyReference.cache
+K:\STEP_SCHOOL\AZURE\TableQuery\obj\Debug\netcoreapp2.0\TableQuery.csproj.CoreCompileInputs.cache
+K:\STEP_SCHOOL\AZURE\TableQuery\obj\Debug\netcoreapp2.0\TableQuery.AssemblyInfoInputs.cache
+K:\STEP_SCHOOL\AZURE\TableQuery\obj\Debug\netcoreapp2.0\TableQuery.AssemblyInfo.cs
+K:\STEP_SCHOOL\AZURE\TableQuery\obj\Debug\netcoreapp2.0\TableQuery.dll
+K:\STEP_SCHOOL\AZURE\TableQuery\obj\Debug\netcoreapp2.0\TableQuery.pdb

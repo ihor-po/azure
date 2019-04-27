@@ -1,0 +1,12 @@
+K:\STEP_SCHOOL\AZURE\MessageProducer\bin\Debug\netcoreapp2.0\MessageProducer.deps.json
+K:\STEP_SCHOOL\AZURE\MessageProducer\bin\Debug\netcoreapp2.0\MessageProducer.runtimeconfig.json
+K:\STEP_SCHOOL\AZURE\MessageProducer\bin\Debug\netcoreapp2.0\MessageProducer.runtimeconfig.dev.json
+K:\STEP_SCHOOL\AZURE\MessageProducer\bin\Debug\netcoreapp2.0\MessageProducer.dll
+K:\STEP_SCHOOL\AZURE\MessageProducer\bin\Debug\netcoreapp2.0\MessageProducer.pdb
+K:\STEP_SCHOOL\AZURE\MessageProducer\obj\Debug\netcoreapp2.0\MessageProducer.csprojAssemblyReference.cache
+K:\STEP_SCHOOL\AZURE\MessageProducer\obj\Debug\netcoreapp2.0\MessageProducer.csproj.CoreCompileInputs.cache
+K:\STEP_SCHOOL\AZURE\MessageProducer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+K:\STEP_SCHOOL\AZURE\MessageProducer\obj\Debug\netcoreapp2.0\MessageProducer.AssemblyInfoInputs.cache
+K:\STEP_SCHOOL\AZURE\MessageProducer\obj\Debug\netcoreapp2.0\MessageProducer.AssemblyInfo.cs
+K:\STEP_SCHOOL\AZURE\MessageProducer\obj\Debug\netcoreapp2.0\MessageProducer.dll
+K:\STEP_SCHOOL\AZURE\MessageProducer\obj\Debug\netcoreapp2.0\MessageProducer.pdb

@@ -1,0 +1,11 @@
+K:\STEP_SCHOOL\AZURE\MessageConsumer\bin\Debug\netcoreapp2.0\MessageConsumer.deps.json
+K:\STEP_SCHOOL\AZURE\MessageConsumer\bin\Debug\netcoreapp2.0\MessageConsumer.runtimeconfig.json
+K:\STEP_SCHOOL\AZURE\MessageConsumer\bin\Debug\netcoreapp2.0\MessageConsumer.runtimeconfig.dev.json
+K:\STEP_SCHOOL\AZURE\MessageConsumer\bin\Debug\netcoreapp2.0\MessageConsumer.dll
+K:\STEP_SCHOOL\AZURE\MessageConsumer\bin\Debug\netcoreapp2.0\MessageConsumer.pdb
+K:\STEP_SCHOOL\AZURE\MessageConsumer\obj\Debug\netcoreapp2.0\MessageConsumer.csprojAssemblyReference.cache
+K:\STEP_SCHOOL\AZURE\MessageConsumer\obj\Debug\netcoreapp2.0\MessageConsumer.csproj.CoreCompileInputs.cache
+K:\STEP_SCHOOL\AZURE\MessageConsumer\obj\Debug\netcoreapp2.0\MessageConsumer.AssemblyInfoInputs.cache
+K:\STEP_SCHOOL\AZURE\MessageConsumer\obj\Debug\netcoreapp2.0\MessageConsumer.AssemblyInfo.cs
+K:\STEP_SCHOOL\AZURE\MessageConsumer\obj\Debug\netcoreapp2.0\MessageConsumer.dll
+K:\STEP_SCHOOL\AZURE\MessageConsumer\obj\Debug\netcoreapp2.0\MessageConsumer.pdb

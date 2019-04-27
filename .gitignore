@@ -1,0 +1,3 @@
+.vs/
+BlobAccess/bin/
+!BlobAccess/bin/FileSource
