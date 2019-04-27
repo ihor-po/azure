@@ -80,7 +80,7 @@ namespace BlobAccess
                 }
 
                 //Deleting file from local folder
-                if (deleteAfter)
+                if (deleteAfter && fileName != ".gitkeep")
                 {
                     File.Delete(fileName);
                 }
