@@ -1,2 +1,3 @@
 .vs/
-BlobAccess/bin/Debug
+BlobAccess/bin
+BlobAccess/obj
