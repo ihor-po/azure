@@ -43,7 +43,7 @@ namespace BlobAccess
                         //Create new file path for file
                         string key = DateTime.UtcNow.ToString("yyyy-MM-dd-HH_mm_ss") + "-" + Path.GetFileName(filePath);
 
-                        UploadBlob(container, key, filePath, false);
+                        UploadBlob(container, key, filePath, true);
                     }
                 }
                 
